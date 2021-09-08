@@ -32,7 +32,7 @@
   
 ##
 
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Daniel-Ferreira-Lara)  
+<!--![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Daniel-Ferreira-Lara)--> 
 
 ![Profile views](https://gpvc.arturio.dev/Daniel-Ferreira-Lara)  
  
