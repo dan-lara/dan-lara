@@ -5,7 +5,9 @@
   <h3>
     Conheça Alguns dos meus projetos
  </h3>
-  O Magneto
+ A <a href="https://github.com/Daniel-Ferreira-Lara/Gringotes" target="_blank">ALICE</a>, uma atendente de banco AI based para o Banco fictício Gringotes
+  <br>
+ O Magneto
   <a href="https://daniel-ferreira-lara.github.io/Site-magneto/" target="_blank">
   <img align="center" height="50" width="50" src="https://daniel-ferreira-lara.github.io/Site-magneto/img/logo-red.png"/>
   </a>
