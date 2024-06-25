@@ -5,7 +5,7 @@
   <h3>
     Conheça Alguns dos meus projetos
  </h3>
- A <a href="https://github.com/Daniel-Ferreira-Lara/Gringotes" target="_blank">ALICE</a>, uma atendente de banco AI based para o Banco fictício Gringotes
+ A <a href="https://github.com/dan-lara/Gringotes" target="_blank">ALICE</a>, uma atendente de banco AI based para o Banco fictício Gringotes
   <br>
  O Magneto
   <a href="https://daniel-ferreira-lara.github.io/Site-magneto/" target="_blank">
@@ -14,9 +14,9 @@
  </div>
  
  <div>
-  <a href="https://github.com/Daniel-Ferreira-Lara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Ferreira-Lara&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Ferreira-Lara&layout=compact&langs_count=6&theme=github_dark&include_all_commits=true&count_private=true&hide=swig,makefile"/>
+  <a href="https://github.com/dan-lara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dan-lara&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lara&layout=compact&langs_count=6&theme=github_dark&include_all_commits=true&count_private=true&hide=swig,makefile"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@
   
 ##
  
-![Profile views](https://gpvc.arturio.dev/Daniel-Ferreira-Lara)  
+![Profile views](https://gpvc.arturio.dev/dan-lara)  
  
 <div> 
   <a href="https://instagram.com/danielferreiralara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
