@@ -16,7 +16,7 @@ Technical leader at [Ecoveículo](https://www.instagram.com/ecoveiculounifei/)
 <a href="https://dan-lara.github.io/Site-magneto/" target="_blank">
 <img align="center" height="50" width="50" src="https://dan-lara.github.io/Site-magneto/img/logo-red.png"/>
 </a>
-
+<!--
 # Stats
 <div>
     <a href="https://github.com/dan-lara">
@@ -24,7 +24,7 @@ Technical leader at [Ecoveículo](https://www.instagram.com/ecoveiculounifei/)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-lara&layout=compact&langs_count=6&theme=github_dark&include_all_commits=true&count_private=true&hide=swig,makefile"/>
     </a>
 </div>
-
+-->
 # Stacks:
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
