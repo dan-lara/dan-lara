@@ -1,4 +1,4 @@
-# About Me:
+# Hi, I'm Daniel.
 Electronic Engineering student at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)<br>
 Computer Engineering student at [UNIFEI](https://unifei.edu.br/)<br>
 Technical leader at [Ecoveículo](https://www.instagram.com/ecoveiculounifei/)
