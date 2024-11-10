@@ -5,13 +5,13 @@ Technical leader at [Ecoveículo](https://www.instagram.com/ecoveiculounifei/)
 
 > ### *“Simplicity is the ultimate sophistication.”*
 > ― *Leonardo da Vinci*
-
+<!--
 <div> 
   <a href="https://www.linkedin.com/in/daniel-ferreira-lara-80b15821a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+55037998668240" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%6684405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/danielferreiralara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+-->
 # Projects
 <a href="https://dan-lara.github.io/Site-magneto/" target="_blank">
 <img align="center" height="50" width="50" src="https://dan-lara.github.io/Site-magneto/img/logo-red.png"/>
