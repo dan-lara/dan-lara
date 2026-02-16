@@ -2,13 +2,14 @@
 Electronic & Computer Engineering master student at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/)<br>
 Computer Engineering student at [UNIFEI](https://unifei.edu.br/)<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ferreira-lara)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielferreiralara@gmail.com)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ferreira-lara)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielferreiralara@gmail.com) -->
 
 
 > ### *“Simplicity is the ultimate sophistication.”*
 > ― *Leonardo da Vinci*
 
+Check my portfolio: [danlara.com.br](https://danlara.com.br)
 <!-- # Projects
 <a href="https://dan-lara.github.io/Site-magneto/" target="_blank">
 <img align="center" height="50" width="50" src="https://dan-lara.github.io/Site-magneto/img/logo-red.png"/>
@@ -22,10 +23,8 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/)<br>
     </a>
 </div> -->
 
-# Stacks
-<div style="font-family: 'Courier New', monospace; line-height: 1.6;">
-  <!-- <h2>Technology Stacks</h2> -->
-  
+<!-- # Stacks
+<div style="font-family: 'Courier New', monospace; line-height: 1.6;">  
   <h3>Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,haskell,r,md" height="30" alt="Programming Languages logos"  />
 
@@ -40,7 +39,7 @@ Computer Engineering student at [UNIFEI](https://unifei.edu.br/)<br>
 
   <h3>AI & Machine Learning</h3>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py" height="30" alt="AI & Machine Learning logos"  />
-</div>
+</div> -->
 
 <!-- # Stacks:
 #### Languages
